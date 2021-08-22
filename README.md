@@ -9,4 +9,4 @@ analisis estadisticos 2021
 * [Tarea 1] 
   * (Tareas/Tarea-1.pdf)
 * [Tarea 2] 
-  *(Tareas/Tarea-2.pdf)
+  * (Tareas/Tarea-2.pdf)
