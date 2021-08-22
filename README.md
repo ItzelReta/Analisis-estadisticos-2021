@@ -7,4 +7,4 @@ analisis estadisticos 2021
 * [Laboratorio 2]
   * (Laboratorios/Laboratorio-2.pdf)
 * [Tarea 1] (Tareas/Tarea-1.pdf)
-* [Tarea 2] (Tarea-2.pdf)
++ [Tarea 2] (Tarea-2.pdf)
