@@ -7,5 +7,5 @@ _Laboratorios_
 * [Laboratorio 2](Laboratorios/Laboratorio-2.pdf)
 
 _Tareas_
-* [Tarea 1](Tareas/Tarea-1.pdf)
+* [Tarea 1](Tareas/Tarea_1.pdf)
 + [Tarea 2](Tarea-2.pdf)
