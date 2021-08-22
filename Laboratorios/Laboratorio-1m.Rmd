@@ -1,0 +1,81 @@
+---
+title: "Laboratorio-1M"
+author: "Itzel Reta Heredia"
+date: "8/9/2021"
+output: pdf_document
+---
+
+# Itzel Guadalupe Reta Heredia
+# 9 de agosto del 2021
+# 2124992
+
+
+# **Variables** -----------------------------------------------------------
+
+#problema 1 identificacion de variables 
+##Respuestas
+
+##cualitativo
+##cuantitativo
+##cuantitativo
+##cualitativo
+##cualitativo
+##cualitativo
+##cuantitativo
+##cuantitativo
+##cualitativo
+##cuantitativo
+##cuantitativo
+
+# Problema 2 lista de 14 variables de animales catagoricas y cuantitativas
+
+1.Especie
+2.Sexo
+3.Conducta
+4.Color de patas
+5.Tipo de pico
+6.Color del plumaje
+7.Estacionalidad
+
+1.Edad
+2.Peso
+3.Altura
+4.Numero de crias 
+5.Velocidad de vuelo
+6.Cantidad
+7.Tiempo de anidacion 
+
+# Problema 3
+
+## ¿Es esta una variable cuantitativa o cualitativa? Explique.
+## Respuesta: Es una variable tipo cualitativo ya que les estan asignando un valor a las redes sociales
+
+# Problema 4
+
+*¿Cual es la cantidad promedio de horas que los estudiantes de universidades publicas trabajancada semana?
+
+  1. Estudiantes de universidad
+  2. Promedio de horas trabajadas por semana
+  3. Cuantitativo
+  
+*¿Que proporcion de todos los estudiantes universitarios de Mexico están inscritos en unaunmiversidad publica?
+    
+  1. Estudiantes de universidad
+  2. Proporcion de estudiantes 
+  3. Cuantitativo
+
+*En los universidades publicas, ¿las estudiantes femeninas tienen un promedio de CENEVAL mas alto que los estudiantes varones?
+    
+  1. Estudiantes femeninas y varones
+  2. Promedio ceneval
+  3. Cuantitativo
+  
+*¿Es mas probable que los atletas universitarios reciban asesoramiento academico que los atletas no universitarios?
+  
+  1. Atletas universitarios
+  2. Recibir asesoramiento academico
+  3. Cualitativo
+  
+*Si reunieramos datos para responder a las preguntas de la investigacion anterior, ¿que datospodrian analizarse mediante un histograma? ¿Como lo sabes?.
+  
+ ## Promedios y proporcion, ya que son variables cuantitativas y esas son las necesarias pata un histograma
