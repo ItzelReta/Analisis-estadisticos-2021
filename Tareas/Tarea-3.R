@@ -11,7 +11,6 @@ sum(xi)
 
 yi <- c(1,3,4,2)
 
-
 sum(xi*yi)
 
 prod(xi)
@@ -52,8 +51,22 @@ barplot(CajasP)
 
 # Problema 6 --------------------------------------------------------------
 
-mode(set)
+# a)
 set <- c(2, 2, 3, 6, 10)
+mean(set)
+median(set)
+# b)
+set5 <- set+5
+mean(set5)
+median(set5)
+summary(set5)
+# c) si se ven afectadas, aumento el valor
+# d)
+setx5 <- set*5
+mean(setx5)
+median(setx5)
+summary(setx5)
+# e) si se ven afectadas, va aumentando el valor
 
 # Problema 7 --------------------------------------------------------------
 
