@@ -5,7 +5,10 @@ _Laboratorios_
 * [Laboratorio 1](Laboratorios/Laboratorio-1.pdf)
 * [Laboratorio 1](Laboratorios/Laboratorio-1m.pdf)
 * [Laboratorio 2](Laboratorios/Laboratorio-2.pdf)
+* [Laboratorio 4](Laboratorios/Laboratorio-4.pdf)
 
 _Tareas_
 * [Tarea 1](Tareas/Tarea_1.pdf)
 + [Tarea 2](Tareas/Tarea-2.pdf)
++ [Tarea 3](Tareas/Tarea-3.pdf)
++ [Tarea 4](Tareas/Tarea-4.pdf)
