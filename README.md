@@ -1,7 +1,7 @@
 # Analisis-estadisticos-2021
 analisis estadisticos 2021
 
-icono-file _Laboratorios_
+:file_folder: **_Laboratorios_**
 * [Laboratorio 1](Laboratorios/Laboratorio-1.pdf)
 * [Laboratorio 1](Laboratorios/Laboratorio-1m.pdf)
 * [Laboratorio 2](Laboratorios/Laboratorio-2.pdf)
@@ -9,8 +9,8 @@ icono-file _Laboratorios_
 * [Laboratorio 5](Laboratorios/Laboratorio-5.pdf)
 * [Laboratorio 6](Laboratorios/Laboratorio-6.pdf)
 
- _Tareas_
-* [Tarea 1](Tareas/Tarea_1.pdf)
+:file_folder: **_Tareas_**
++ [Tarea 1](Tareas/Tarea_1.pdf)
 + [Tarea 2](Tareas/Tarea-2.pdf)
 + [Tarea 3](Tareas/Tarea-3.pdf)
 + [Tarea 4](Tareas/Tarea-4.pdf)
