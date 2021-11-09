@@ -1,5 +1,5 @@
 # Analisis-estadisticos-2021
-Resultado del curso de analisis estadisticos 2021
+DEsarollo del curso de analisis estadisticos 2021
 
 :file_folder: **_Laboratorios_**
 * [Laboratorio 1](Laboratorios/Laboratorio-1.pdf)
@@ -28,5 +28,5 @@ Resultado del curso de analisis estadisticos 2021
 + [Clase 8](Sesiones/Clase08.R)
 + [Clase 9](Sesiones/Clase09.R)
 
-:bar_chart: **_Grafica_ de_Contrubucion_**
+:bar_chart: **_Grafica_de_Contrubucion_**
 ![image](https://user-images.githubusercontent.com/88569432/140850945-8295e21e-a59c-41b3-b702-62f28ef66beb.png)
