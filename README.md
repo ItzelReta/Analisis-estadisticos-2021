@@ -1,4 +1,4 @@
-# Análisis-estadisticos-2021
+# Análisis-estadísticos-2021
 Desarollo del curso de análisis estadísticos 2021
 
 :file_folder: **_Laboratorios_**
