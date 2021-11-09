@@ -19,3 +19,11 @@ analisis estadisticos 2021
 + [Tarea 7](Tareas/Tarea-7.pdf)
 + [Tarea 8](Tareas/Tarea-8.pdf)
 + [Tarea 9](Tareas/Tarea-9.pdf)
+
+:file_folder: **_Clases_**
++ [Clase 2](Sesiones/Clase02.R)
++ [Clase 4](Sesiones/Clase04.R)
++ [Clase 5](Sesiones/Clase05.R)
++ [Clase 6](Sesiones/Clase06.R)
++ [Clase 8](Sesiones/Clase08.R)
++ [Clase 9](Sesiones/Clase09.R)
