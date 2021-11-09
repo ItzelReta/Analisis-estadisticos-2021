@@ -1,5 +1,5 @@
 # Analisis-estadisticos-2021
-analisis estadisticos 2021
+Resultado del curso de analisis estadisticos 2021
 
 :file_folder: **_Laboratorios_**
 * [Laboratorio 1](Laboratorios/Laboratorio-1.pdf)
